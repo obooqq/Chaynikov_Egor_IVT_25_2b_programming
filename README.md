@@ -5,6 +5,7 @@
 ***text***
 ~~text~~
 <ins>text<ins>
+>text
 
 ## Семестр 2
 
