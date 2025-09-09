@@ -4,8 +4,7 @@
 **text**
 ***text***
 ~~text~~
-<u>text</u>
-
+<ins>text<ins>
 
 ## Семестр 2
 
