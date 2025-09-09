@@ -20,8 +20,9 @@
 
 <https://youtube.com/>
 
-'''c/python
+```c/python
 print('Hello, GitHub')
+```
 
 
 ## Семестр 2
