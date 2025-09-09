@@ -1,1 +1,1 @@
-# Chaynikov_Egor_IVT_25_2b_programming
+Сегодня вторник, я пришел на пару
