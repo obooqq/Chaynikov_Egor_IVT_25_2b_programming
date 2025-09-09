@@ -18,7 +18,7 @@
 
 ![img]()
 
-<youtube.com/>
+<https://youtube.com/>
 
 ## Семестр 2
 
