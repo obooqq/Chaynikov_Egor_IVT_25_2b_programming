@@ -15,4 +15,4 @@
 - [ ] 4 лабораторная
 - [ ] 5 лабораторная
 
-![img](https://cgon.rospotrebnadzor.ru/upload/pictures_inside_article/0a9/yzx7n311b54e0zg5hsllkmsm7c6v1zu8/8854cdeb85cb29fbd8571eede588c539.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztNMbqMNfB-wiM63SCoXf_ORvA4L27dowUg&s)
+![img](https://resizer.mail.ru/p/8001074a-591d-5549-8ac6-f38772ca5b1c/AQAKQ6lEVCpU3Vq57Mg3CNyeuVrAeEo85D06muD2RPIoqM5p3TMK4jCNt81ZIZqb3F0u3uJU3z8hbsga_8sjw0Avcu8.jpg)
