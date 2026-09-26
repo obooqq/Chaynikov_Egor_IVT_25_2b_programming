@@ -1,5 +1,5 @@
 # Лабораторные работы
-- [x] 1 лабораторная
+- [x] [1 лабораторная](https://github.com/obooqq/Chaynikov_Egor_IVT_25_2b_programming/tree/main/1%20Lab)
 - [ ] 2 лабораторная
 - [ ] 3 лабораторная
 - [ ] 4 лабораторная
