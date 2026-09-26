@@ -42,3 +42,14 @@
 
 # Pictures
 *.jpg
+
+# .NET / Rider / Visual Studio build output
+bin/
+obj/
+*.user
+
+# Rider / IntelliJ project files
+.idea/
+
+# macOS
+.DS_Store
