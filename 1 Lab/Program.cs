@@ -1,5 +1,4 @@
 using System;
-using System.Globalization;
 
 namespace LabWork1
 {
@@ -19,21 +18,15 @@ namespace LabWork1
             Console.WriteLine("Задача 3");
             Task3();
 
-            Console.WriteLine();
-            if (!Console.IsInputRedirected)
-            {
-                Console.WriteLine("Нажмите любую клавишу для выхода");
-                Console.ReadKey();
-            }
         }
         
         static void Task1()
         {
             Console.Write("Введите целое число n: ");
-            int n = int.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+            int n = int.Parse(Console.ReadLine()!);
 
             Console.Write("Введите целое число m: ");
-            int m = int.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+            int m = int.Parse(Console.ReadLine()!);
 
             int n1 = n, m1 = m;
             int result1 = n1++ * m1;            
@@ -48,7 +41,7 @@ namespace LabWork1
             Console.WriteLine($"3) --m > n = {result3}   (после вычисления: n={n3}, m={m3})");
 
             Console.Write("Введите вещественное число x: ");
-            double x = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+            double x = double.Parse(Console.ReadLine()!);
             
             if (x + 4 < 0)
             {
@@ -65,10 +58,10 @@ namespace LabWork1
         static void Task2()
         {
             Console.Write("Введите координату X1: ");
-            double x1 = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+            double x1 = double.Parse(Console.ReadLine()!);
 
             Console.Write("Введите координату Y1: ");
-            double y1 = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+            double y1 = double.Parse(Console.ReadLine()!);
 
             bool inside =
                 (-x1 / 7.0 + y1 / 5.0 <= 1) &&  
